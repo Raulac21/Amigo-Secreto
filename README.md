@@ -1,6 +1,6 @@
 <h1>🎁 Amigo Secreto</h1>
  <p>Este pequeño proyecto que permite agregar nombres a una lista de amigos y realizar un sorteo aleatorio para seleccionar uno de ellos como "el amigo secreto".</p>
-
+![Demostración del proyecto](assets/tutorial_gif.gif)
 <h1>🛠️ Tecnologías utilizadas</h1>
 <li>HTML</li>
 <li>JavaScript</li>
