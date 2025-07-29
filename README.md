@@ -1,6 +1,6 @@
 <h1>🎁 Amigo Secreto</h1>
  <p>Este pequeño proyecto que permite agregar nombres a una lista de amigos y realizar un sorteo aleatorio para seleccionar uno de ellos como "el amigo secreto".</p>
- ![Juego](./assets/index.png)
+assets/index.png
 <h1> ✅ Funcionalidades</h1>
 <ul>
 <li>Agregar amigos a una lista sin repetir nombres.</li>
