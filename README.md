@@ -42,7 +42,7 @@
 <li>4.-Al presionar el botón "Sortear amigo", se elige un nombre al azar y se muestra el resultado.</li>
 <br/>
 # Tutorial<br/>
-![](https://github.com/Raulac21/Amigo-Secreto/blob/main/demo.gif)
+![](https://github.com/Raulac21/Amigo-Secreto/raw/main/demo.gif)
 <br/>
 <br/>
 <h1>✅ Mejoras posibles</h1>
