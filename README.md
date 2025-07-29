@@ -33,9 +33,9 @@
 <h1>🔄 Flujo de uso</h1>
 
 <li>1.-El usuario ingresa un nombre en el campo de texto.</li>
-<li>2.-Presiona el botón "Agregar Amigo".</li>
+<li>2.-Presiona el botón "Añadir".</li>
 <li>3.-Se muestra la lista de nombres agregados.</li>
-<li>4.-Al presionar el botón "Sortear", se elige un nombre al azar y se muestra el resultado.</li>
+<li>4.-Al presionar el botón "Sortear amigo", se elige un nombre al azar y se muestra el resultado.</li>
 <br/>
 Opcionalmente se puede limpiar la lista mostrada sin borrar la memoria.
 <br/><br/>
