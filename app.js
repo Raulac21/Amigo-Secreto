@@ -1,5 +1,11 @@
 let listaamigos = [];
 
+function limpiar() {
+    document.querySelector('#amigo').value = '';
+    let s = document.getElementById('amigosorteado');
+    s.innerHTML = '';
+}
+
 function limpiarlista(){
     
     let lista = document.getElementById('listaAmigos');
@@ -16,11 +22,13 @@ function agregarAmigo(){
 
      if (listaamigos.includes(amigo)){
         alert('Ese Amigo Ya Lo Agregaste'); 
+        limpiar();
         return;       
 
     }
         listaamigos.push(amigo); //agregar a la lista
         console.log(listaamigos); // ver amigos en consola
+        limpiar();
         mostrarAmigos(); //mostrar lista
     
  }
@@ -48,5 +56,3 @@ function agregarAmigo(){
   resultado.innerHTML = `🎉 El amigo sorteado es: <strong>${amigoSorteado}</strong>`;
 
 }
-
- 
