@@ -41,7 +41,7 @@
 <li>3.-Se muestra la lista de nombres agregados.</li>
 <li>4.-Al presionar el botón "Sortear amigo", se elige un nombre al azar y se muestra el resultado.</li>
 <br/>
-# Tutorial
+# Tutorial<br/>
 ![](https://github.com/Raulac21/Amigo-Secreto/blob/main/demo.gif)
 <br/>
 <br/>
