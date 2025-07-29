@@ -1,7 +1,7 @@
 <h1>🎁 Amigo Secreto</h1>
  <p>Este pequeño proyecto que permite agregar nombres a una lista de amigos y realizar un sorteo aleatorio para seleccionar uno de ellos como "el amigo secreto".</p>
  </br>
-![Demo](./demo.gif)
+![Demo](https://github.com/Raulac21/Amigo-Secreto/raw/main/demo.gif)
 </br>
 <h1>🛠️ Tecnologías utilizadas</h1>
 <li>HTML</li>
