@@ -1,11 +1,5 @@
 let listaamigos = [];
 
-/*function limpiar() {
-    document.querySelector('#amigo').value = '';
-    let s = document.getElementById('amigosorteado');
-    s.innerHTML = '';
-}*/
-
 function limpiarlista(){
     
     let lista = document.getElementById('listaAmigos');
@@ -27,7 +21,6 @@ function agregarAmigo(){
     }
         listaamigos.push(amigo); //agregar a la lista
         console.log(listaamigos); // ver amigos en consola
-       // limpiar();
         mostrarAmigos(); //mostrar lista
     
  }
